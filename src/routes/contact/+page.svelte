@@ -3,7 +3,7 @@
 
 <div class="relative h-72 w-full mb-10 flex items-start">
     <div
-        class="absolute top-0 left-0 h-full w-full bg-[url('/BG-contact2.jpg')] bg-cover bg-center -z-10"
+        class="absolute top-0 left-0 h-full w-full bg-[url('/BG-contact2-tiny.jpg')] bg-cover bg-center -z-10"
     ></div>
 </div>
 <div class="ml-60 mr-60 mb-25 flex flex-col gap-4 items-center">

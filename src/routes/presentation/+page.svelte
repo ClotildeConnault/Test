@@ -6,7 +6,7 @@
 
 <div class="relative h-96 w-full mb-10 flex items-start">
     <div
-        class="absolute top-0 left-0 h-full w-full bg-[url('/BG-presentation.png')] bg-cover bg-center -z-10"
+        class="absolute top-0 left-0 h-full w-full bg-[url('/BG-presentation-tiny.png')] bg-cover bg-center -z-10"
     >
         <div class="flex flex-col ml-[25vw] mt-32">
             <h1 class="relative text-white text-4xl">Qui sommes-nous ?</h1>

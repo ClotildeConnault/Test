@@ -12,7 +12,7 @@
 
 <div class="relative h-96 w-full mb-10 flex items-start">
     <div
-        class="absolute top-0 left-0 h-full w-full bg-[url('/BG2.png')] bg-cover bg-center -z-10"
+        class="absolute top-0 left-0 h-full w-full bg-[url('/BG2-tiny.png')] bg-cover bg-center -z-10"
     ></div>
     <div class="absolute top-0 left-0 h-full w-full bg-black/20 -z-10"></div>
 
@@ -35,14 +35,14 @@
 
 <div class="flex-1 bg-white p-4 space-y-4">
     <div class="flex flex-row items-center justify-center mr-10 ml-10 gap-10">
-        <Card background="bible.jpg">Études Bibliques</Card>
-        <Card background="prayer.jpg">Rencontres de prière</Card>
-        <Card background="femmes.jpg">Rencontres pour les femmes</Card>
+        <Card background="bible-tiny.jpg">Études Bibliques</Card>
+        <Card background="prayer-tiny.jpg">Rencontres de prière</Card>
+        <Card background="femmes-tiny.jpg">Rencontres pour les femmes</Card>
     </div>
     <div class="flex flex-row items-center justify-center mr-10 ml-10 gap-10">
-        <Card background="enfants.jpg">Activités pour les enfants</Card>
-        <Card {color} background="ados.jpg">Activités pour les ados</Card>
-        <Card background="flags.png"
+        <Card background="enfants-tiny.jpg">Activités pour les enfants</Card>
+        <Card {color} background="ados-tiny.jpg">Activités pour les ados</Card>
+        <Card background="flags-tiny.png"
             >Rencontres en espagnol, roumain, arabe</Card
         >
     </div>
